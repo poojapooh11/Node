@@ -1,0 +1,36 @@
+{"mobilegames":
+[{
+  "id":1,
+  "game" :"Candy Crush Saga",
+  "developer" : "King",
+  "genre": "Puzzle",
+  "rating":"4.7/5"
+  },
+  {
+  "id":2,
+  "game" :"Clash of Clans",
+  "developer" : "Supercell",
+  "genre": "Strategy",
+  "rating":"4.7/5"
+  },
+  {
+  "id":3,
+  "game" :"Clash Royale",
+  "developer" : "Supercell",
+  "genre": "Real - time strategy",
+  "rating":"4.6/5"
+  },
+  {
+  "id":4,
+  "game" :"PUBG",
+  "developer" : "LightSpeed and Quantum Studio",
+  "genre": "Battle Royale",
+  "rating":"4.4/5"
+  },
+  {
+  "id":5,
+  "game" :"Free Fire",
+  "developer" : "Garena",
+  "genre": "Battle Royale",
+  "rating":"4.0/5"
+  }]}
